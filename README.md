@@ -12,4 +12,4 @@ Files handling.
 # Who am I?
 Hi , I am Dev Gajjar, currently pursuing my Final Year in B.E Information Technology @SVMIT,Bharuch
 
-Links Linkdin:-https://github.com/DevGajjar12/Dev-Gajjar-Skill_india_python_for_ai_ml.git
+Links Linkdin:-https://github.com/DevGajjar12/Skill-india-python-for-ml-ai-Inventory-Management-System.git
